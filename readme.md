@@ -2,3 +2,4 @@ I chose this topic because I was curious what words were used when Trump and Bid
 
 
 ![](img/Trump_words.png)
+![]()
